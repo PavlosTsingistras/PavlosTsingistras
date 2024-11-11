@@ -1,7 +1,7 @@
 - 👋 Hi, I’m PavlosTsingistras
 - 👀 I’m an undergraduate in the Department of Informatics and Telecomunications
 - 📫 How to reach me
--  spotify: https://open.spotify.com/user/kppoc7kap4mn7plhyoqa5lj98?si=f2fee63360e64588
+-  Spotify: https://open.spotify.com/user/kppoc7kap4mn7plhyoqa5lj98?si=f2fee63360e64588
   
 - 😄 Pronouns: he/him
 
